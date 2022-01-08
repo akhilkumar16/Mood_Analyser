@@ -1,0 +1,13 @@
+C:\Users\Kranthi\Desktop\Day21\Mood_Analyzer\Mood_Analyzer\bin\Debug\netcoreapp3.1\Mood_Analyzer.exe
+C:\Users\Kranthi\Desktop\Day21\Mood_Analyzer\Mood_Analyzer\bin\Debug\netcoreapp3.1\Mood_Analyzer.deps.json
+C:\Users\Kranthi\Desktop\Day21\Mood_Analyzer\Mood_Analyzer\bin\Debug\netcoreapp3.1\Mood_Analyzer.runtimeconfig.json
+C:\Users\Kranthi\Desktop\Day21\Mood_Analyzer\Mood_Analyzer\bin\Debug\netcoreapp3.1\Mood_Analyzer.runtimeconfig.dev.json
+C:\Users\Kranthi\Desktop\Day21\Mood_Analyzer\Mood_Analyzer\bin\Debug\netcoreapp3.1\Mood_Analyzer.dll
+C:\Users\Kranthi\Desktop\Day21\Mood_Analyzer\Mood_Analyzer\bin\Debug\netcoreapp3.1\Mood_Analyzer.pdb
+C:\Users\Kranthi\Desktop\Day21\Mood_Analyzer\Mood_Analyzer\obj\Debug\netcoreapp3.1\Mood_Analyzer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kranthi\Desktop\Day21\Mood_Analyzer\Mood_Analyzer\obj\Debug\netcoreapp3.1\Mood_Analyzer.AssemblyInfoInputs.cache
+C:\Users\Kranthi\Desktop\Day21\Mood_Analyzer\Mood_Analyzer\obj\Debug\netcoreapp3.1\Mood_Analyzer.AssemblyInfo.cs
+C:\Users\Kranthi\Desktop\Day21\Mood_Analyzer\Mood_Analyzer\obj\Debug\netcoreapp3.1\Mood_Analyzer.csproj.CoreCompileInputs.cache
+C:\Users\Kranthi\Desktop\Day21\Mood_Analyzer\Mood_Analyzer\obj\Debug\netcoreapp3.1\Mood_Analyzer.dll
+C:\Users\Kranthi\Desktop\Day21\Mood_Analyzer\Mood_Analyzer\obj\Debug\netcoreapp3.1\Mood_Analyzer.pdb
+C:\Users\Kranthi\Desktop\Day21\Mood_Analyzer\Mood_Analyzer\obj\Debug\netcoreapp3.1\Mood_Analyzer.genruntimeconfig.cache

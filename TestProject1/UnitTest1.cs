@@ -16,4 +16,55 @@ namespace TestProject1
             Assert.AreEqual(expected, mood);
         }
     }
+    [TestClass]
+    public class TestMood
+    {
+        [TestMethod]
+        public void NullMood()
+        {
+            string msg = " ";
+            string expected = "HAPPY";
+
+            MoodAnalizer mood = new MoodAnalizer(msg);
+
+            string actual = mood.AnalyseMood();
+
+            Assert.AreEqual(expected, actual);
+        }
+
+        [TestMethod]
+        public void getCustomNullException()
+        {
+            string expected = "message should not be null";
+            MoodAnalizer modeAnalyzer = new MoodAnalizer(" ");
+
+            try
+            {
+                string actual = modeAnalyzer.AnalyseMood();
+
+            }
+            catch (CustomException ex)
+            {
+                Assert.AreEqual(expected, ex.Message);
+            }
+        }
+
+        [TestMethod]
+        public void getCustomEmptyException()
+        {
+            string expected = "message should not be empty";
+            MoodAnalizer modeAnalyzer = new MoodAnalizer(string.Empty);
+
+            try
+            {
+                string actual = modeAnalyzer.AnalyseMood();
+
+            }
+            catch (CustomException ex)
+            {
+                Assert.AreEqual(expected, ex.Message);
+            }
+
+        }
+    }
 }

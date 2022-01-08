@@ -11,3 +11,4 @@ C:\Users\Kranthi\Desktop\Day21\Mood_Analyzer\Mood_Analyzer\obj\Debug\netcoreapp3
 C:\Users\Kranthi\Desktop\Day21\Mood_Analyzer\Mood_Analyzer\obj\Debug\netcoreapp3.1\Mood_Analyzer.dll
 C:\Users\Kranthi\Desktop\Day21\Mood_Analyzer\Mood_Analyzer\obj\Debug\netcoreapp3.1\Mood_Analyzer.pdb
 C:\Users\Kranthi\Desktop\Day21\Mood_Analyzer\Mood_Analyzer\obj\Debug\netcoreapp3.1\Mood_Analyzer.genruntimeconfig.cache
+C:\Users\Kranthi\Desktop\Day21\Mood_Analyzer\Mood_Analyzer\obj\Debug\netcoreapp3.1\Mood_Analyzer.csproj.AssemblyReference.cache
